@@ -149,32 +149,109 @@ h3 {
 	line-height: 22px;
 	letter-spacing: 0.38px;
 }
+.like_a_pro{
+	background-color: #f6f9f9;
+}	
+.for_h2{ 
+	color: #2d3950;
+	font-size: 40px;
+	font-weight: 400;
+	letter-spacing: 1.02px; 
+	padding-top: 81px;
+	padding-bottom: 22px;
+	text-align: center;  
+}
+.img_sm{
+	width:360px;
+	height:260px;
+	display: block;
+}
 .with_us {
 	background:  url(../images/layer_36.png) no-repeat center top / cover;
-	height: 700px;
+	height: 800px;
 }
 .with_bg {
 	background: #2d3950 no-repeat center top / cover;
-	height: 700px;
+	height: 800px;
 	opacity: 0.9;
 }
+.strong {
+	display: block;
+	width: 555px;
+	margin: 0 auto;
+}
 .text{
-
+	font-size: 41px;
+	font-weight: 400;
+	letter-spacing: 1.02px;
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 74px;
 }
 .text_cont {
-
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 23px;
+	letter-spacing: 0.38px;
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 21px;
+	padding-bottom: 52px;
+}
+.name {
+	width: 553px;
+	height: 60px;
+	font-size: 15px;
+    background: none;
+    border: 1px solid #999;
+    border-radius: 2px;
+    padding: 20px;
+    color: #999;
+    margin-bottom:  22px;
 }
 .email {
+	width: 553px;
+	height: 60px;
+	font-size: 15px;
+    background: none;
+    border: 1px solid #999;
+    border-radius: 2px;
+    padding: 22px;
+    color: #999;
+    margin-bottom:  22px;
 
 }
 .text_email{
+	width: 553px;
+	height: 160px;
+	font-size: 15px;
+    background: none;
+    border: 1px solid #999;
+    border-radius: 2px;
+    padding: 22px;
+    color: #999;
+    margin-bottom:  22px;
 
 }
 .checkbox {
+	float: left;
+}
+ul {
+	padding: 0;
+	margin: 0;
+	display: block;
 
 }
+li {
+	display: block;
+	float:left;
+	margin: 16px; 
+}
+
 .checkbox_text{
-	
+	font-size: 15px;
+	font-weight: 400;
+	letter-spacing: 0.38px
 }
 .send_button{
 	text-decoration: none;
@@ -186,7 +263,8 @@ h3 {
     display: block;
     text-align: center;
     padding: 20px;
-    letter-spacing: 0.45px; 
+    letter-spacing: 0.45px;
+    float: right; 
 
 }
 .copyritht {
